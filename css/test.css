@@ -1,0 +1,31 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1598321677283-bf97aea9dc10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1984&q=80);
+}
+
+h1{
+font-family: Lemon Tuesday;
+font-size: 125px;
+color: teal;
+}
+
+h2{
+font-family: Helvetica;
+font-size: 30px;
+color: black;
+}
+
+.big{
+font-size:200px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+color:navy;
+}
+
+h1 span{
+color:violet;
+} 
